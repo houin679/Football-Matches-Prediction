@@ -1,2 +1,2 @@
 # Football-Matches-Prediction
-This is a football match prediction with python
+This is a EPL football match prediction with python
